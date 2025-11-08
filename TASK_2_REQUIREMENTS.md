@@ -16,4 +16,4 @@
 14. Check the availability of the website artsiomrusau.com using ping  
 15. Send 5 packages to rusau.net  
 16. Using GET and cURL command, get info about registered pets at petstore.swagger.io by any status
-17. Using POST and cURL command, create a new user at petstore.swagger.io
+17. Using POST and cURL command, create a new user at petstore.swagger.io.
